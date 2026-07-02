@@ -1,0 +1,1 @@
+SELECT * FROM nhs_db.appointment;
